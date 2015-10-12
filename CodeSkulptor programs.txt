@@ -1,0 +1,118 @@
+#########################################################################
+PRINCIPLES OF COMPUTING
+
+# Module 1-1
+# merge(line) game 2048
+    http://www.codeskulptor.org/#user39_eclVxC486Q9lgaZ_0.py
+
+# Module 1-2
+# 2048 (full)
+    http://www.codeskulptor.org/#user39_jto6q2P76r1aVcn.py
+
+# Module 1-3
+# Montecarlo Tic-Tac-Toe
+    http://www.codeskulptor.org/#user39_HfEeEgP7aLH1SK7_1.py
+    http://www.codeskulptor.org/#user39_xOiI9JFstGCcAgX.py - from another student, interesting way of building lists/dictionaries
+
+# Module 1-4
+# Yahtzee
+    http://www.codeskulptor.org/#user39_9fA4Bzjgl8oG0CU_0.py
+# Test suite:
+    http://www.codeskulptor.org/#user39_2H7QHvgblW_23.py
+
+# Module 1-5
+# Cookie Clicker Simulator
+    http://www.codeskulptor.org/#user39_moIWm306zaeELaO.py - submitted
+    http://www.codeskulptor.org/#user39_moIWm306zaeELaO_5.py - more optimization functions
+
+# Module 2-1
+# Stack and Queue classes
+    http://www.codeskulptor.org/#user39_ju7hwQ3fvW_0.py
+# Zombie run!
+    http://www.codeskulptor.org/#user39_Y0pTGHeKANshC9x.py
+
+# Module 2-2
+# Word Wrangler
+    http://www.codeskulptor.org/#user39_9eDme1o7p7ho0vs.py
+
+# Module 2-3
+# Minimax Tic-Tac-Toe
+    http://www.codeskulptor.org/#user39_8SspAYCLBp_18.py #didn't get full credit, score is not well taken :/
+
+# Module 2-4
+# The Fifteen Puzzle
+    http://www.codeskulptor.org/#user39_Ur0DmB6MH9_15.py #didn't get full credit, didn't have time to finish the exercise :/
+    
+    
+#########################################################################
+COURSE ON INTERACTIVE PYTHON PROGRAMING
+
+# Module 1
+# Quiz
+	http://www.codeskulptor.org/#user38_fIR10Npkcp_2.py
+# Rock-paper-scissors-lizard-Spock
+	http://www.codeskulptor.org/#user38_hGuxxhkiwayR69i_1.py
+
+# Module 2
+# Guess the number
+	http://www.codeskulptor.org/#user38_5TfHT87XpivQc80_1.py
+
+# Module 3
+# Quiz
+	http://www.codeskulptor.org/#user38_E8xqDKB0an_1.py
+	http://www.codeskulptor.org/#user38_aa0VT14VOn_0.py
+# Stopwatch
+	http://www.codeskulptor.org/#user38_cmoYCuqsC17S3OZ_4.py
+# Discus
+	http://www.codeskulptor.org/#user38_ZXhu2dXcrQiD6Kx_2.py
+
+# Module 4
+# Quiz
+	http://www.codeskulptor.org/#user38_JjsuRyBxSm_2.py
+	http://www.codeskulptor.org/#user38_AufZWwVyj1_0.py
+# Pong
+	http://www.codeskulptor.org/#user38_rvuNrYWraz_15.py
+	http://www.codeskulptor.org/#user38_4K1k5FEIxNbebfQ.py
+
+# Module 5
+# Quiz
+# Mem-game
+	http://www.codeskulptor.org/#user38_bMwYrcYiJY_4.py - with decorated backs
+	http://www.codeskulptor.org/#user38_6Egtx1llqklCQHS.py
+	imgur album - http://imgur.com/a/SZrnM#11
+
+
+# Module 6
+# Quiz
+	http://www.codeskulptor.org/#user38_ju0T07rH29_0.py
+# Blackjack
+	http://www.codeskulptor.org/#user38_2yWzsIWHMl9nTuI.py
+
+# Module 7
+# Quiz
+# Asteroids 1
+	http://www.codeskulptor.org/#user38_pXIV3Q6N1Bhk4Ca.py
+
+# Module 8
+# Quiz
+# Rice Rocks
+	http://www.codeskulptor.org/#user38_8yezipKKVmF5Z1G.py
+
+images:
+ship1: http://i.imgur.com/wa1UsHW.png - 1x2 70x70
+ship2: http://i.imgur.com/GnbbS9Z.png - 1x2 70x70
+rock: http://i.imgur.com/S22uVko.png- 8x8 1024x1024
+missile1: http://i.imgur.com/F9ovkBG.png
+missile2: http://i.imgur.com/ZUy1xOA.png
+missile3: http://i.imgur.com/vGo788M.png
+explosion1: http://i.imgur.com/8iUlqSX.png - 1x17
+explosion2: http://i.imgur.com/SdcyoD9.png - 8x8 128x128
+background: http://i.imgur.com/5K8jCUJ.png
+
+# Mini GIS
+	http://www.codeskulptor.org/#user38_M8mNYjeQb1QwsYT_0.py
+	http://www.codeskulptor.org/#user38_lNfbP6srRv8Xl9W_0.py - faulty comment corrected
+
+*interesting charts: http://history.nasa.gov/conghand/mannedev.htm
+
+note to self: My QTconsole runs the gui tkinter
