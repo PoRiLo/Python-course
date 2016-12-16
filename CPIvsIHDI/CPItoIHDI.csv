@@ -1,0 +1,138 @@
+Country,CPI,IHDI,inequality index,wbcode,region
+Norway,87.0,0.893,5.3,NOR,WE/EU
+Australia,79.0,0.858,7.9,AUS,AP
+Switzerland,86.0,0.861,7.3,CHE,WE/EU
+Denmark,91.0,0.856,7.1,DNK,WE/EU
+Netherlands,87.0,0.861,6.5,NLD,WE/EU
+Germany,81.0,0.853,6.7,DEU,WE/EU
+Ireland,75.0,0.836,8.5,IRL,WE/EU
+United States of America,76.0,0.76,15.7,USA,AME
+Canada,83.0,0.832,8.6,CAN,AME
+Sweden,89.0,0.846,6.5,SWE,WE/EU
+United Kingdom,81.0,0.829,8.4,GBR,WE/EU
+Iceland,79.0,0.846,5.8,ISL,WE/EU
+South Korea,56.0,0.751,15.9,KOR,AP
+Israel,61.0,0.775,12.9,ISR,MENA
+Luxembourg,81.0,0.822,7.7,LUX,WE/EU
+Japan,75.0,0.78,12.2,JPN,AP
+Belgium,77.0,0.82,7.9,BEL,WE/EU
+France,70.0,0.811,8.6,FRA,WE/EU
+Austria,76.0,0.816,7.6,AUT,WE/EU
+Finland,90.0,0.834,5.5,FIN,WE/EU
+Slovenia,60.0,0.829,5.8,SVN,WE/EU
+Spain,58.0,0.775,11.0,ESP,WE/EU
+Italy,44.0,0.773,11.3,ITA,WE/EU
+Czech Republic,56.0,0.823,5.3,CZE,WE/EU
+Greece,46.0,0.758,12.1,GRC,WE/EU
+Estonia,70.0,0.782,8.9,EST,WE/EU
+Cyprus,61.0,0.758,10.6,CYP,WE/EU
+Slovakia,51.0,0.791,6.2,SVK,WE/EU
+Poland,62.0,0.76,9.6,POL,WE/EU
+Lithuania,61.0,0.754,10.0,LTU,WE/EU
+Malta,56.0,0.767,8.5,MLT,WE/EU
+Argentina,32.0,0.711,14.5,ARG,AME
+Chile,70.0,0.672,18.2,CHL,AME
+Portugal,63.0,0.744,10.1,PRT,WE/EU
+Hungary,51.0,0.769,7.1,HUN,WE/EU
+Latvia,55.0,0.73,10.5,LVA,WE/EU
+Croatia,51.0,0.743,8.9,HRV,WE/EU
+Montenegro,44.0,0.728,9.2,MON,ECA
+Belarus,32.0,0.741,7.1,BLR,ECA
+Russian Federation,29.0,0.714,10.3,RUS,ECA
+Romania,46.0,0.711,10.2,ROM,WE/EU
+Uruguay,74.0,0.678,14.2,URY,AME
+Kazakhstan,28.0,0.694,11.8,KAZ,ECA
+Bulgaria,41.0,0.699,10.4,BGR,WE/EU
+Panama,39.0,0.604,21.7,PAN,AME
+Mauritius,53.0,0.666,14.1,MUS,SSA
+Trinidad and Tobago,39.0,0.654,15.0,TTO,AME
+Serbia,40.0,0.693,10.1,SCG,ECA
+Lebanon,28.0,0.609,20.2,LBN,MENA
+Costa Rica,55.0,0.613,19.1,CRI,AME
+Turkey,42.0,0.641,15.7,TUR,ECA
+Sri Lanka,37.0,0.669,11.6,LKA,AP
+Mexico,35.0,0.587,21.8,MEX,AME
+Brazil,38.0,0.557,25.6,BRA,AME
+Georgia,52.0,0.652,13.2,GEO,ECA
+Azerbaijan,29.0,0.652,12.9,AZE,ECA
+Jordan,53.0,0.625,16.4,JOR,MENA
+Ukraine,27.0,0.689,7.7,UKR,ECA
+Peru,36.0,0.563,23.0,PER,AME
+Albania,36.0,0.634,13.4,ALB,ECA
+Armenia,35.0,0.658,10.1,ARM,ECA
+Bosnia and Herzegovina,38.0,0.635,13.1,BIH,ECA
+Ecuador,32.0,0.57,21.8,ECU,AME
+Mongolia,39.0,0.633,12.8,MNG,AP
+Thailand,38.0,0.576,19.9,THA,AP
+Tunisia,38.0,0.562,21.4,TUN,MENA
+Colombia,37.0,0.542,24.1,COL,AME
+Jamaica,41.0,0.593,16.9,JAM,AME
+Dominican Republic,33.0,0.546,23.4,DOM,AME
+Suriname,36.0,0.543,23.3,SUR,AME
+Botswana,63.0,0.431,36.5,BWA,SSA
+Moldova,33.0,0.618,10.8,MDA,ECA
+Egypt,36.0,0.524,22.8,EGY,MENA
+Gabon,34.0,0.519,24.0,GAB,SSA
+Indonesia,36.0,0.559,18.2,IDN,AP
+Paraguay,27.0,0.529,21.8,PRY,AME
+Uzbekistan,19.0,0.569,15.3,UZB,ECA
+Philippines,35.0,0.547,17.8,PHL,AP
+El Salvador,39.0,0.488,26.2,SLV,AME
+South Africa,44.0,0.428,33.0,ZAF,SSA
+Bolivia,34.0,0.472,28.4,BOL,AME
+Kyrgyzstan,28.0,0.56,14.2,KGZ,ECA
+Iraq,16.0,0.512,21.5,IRQ,MENA
+Guyana,29.0,0.52,18.1,GUY,AME
+Nicaragua,27.0,0.48,23.6,NIC,AME
+Morocco,36.0,0.441,28.5,MAR,MENA
+Namibia,53.0,0.354,39.3,NAM,SSA
+Guatemala,28.0,0.443,28.9,GTM,AME
+Tajikistan,26.0,0.515,17.0,TJK,ECA
+India,38.0,0.435,27.7,IND,AP
+Honduras,31.0,0.412,30.7,HND,AME
+Bhutan,65.0,0.425,28.9,BTN,AP
+Timor-Leste,28.0,0.412,29.4,TLS,AP
+Syria,18.0,0.468,20.8,SYR,MENA
+Congo Republic,23.0,0.434,26.2,COG,SSA
+Zambia,38.0,0.384,33.9,ZMB,SSA
+Ghana,47.0,0.387,33.1,GHA,SSA
+Laos,25.0,0.428,25.3,LAO,AP
+Bangladesh,25.0,0.403,29.0,BGD,AP
+Cambodia,21.0,0.418,24.6,KHM,AP
+Sao Tome and Principe,42.0,0.418,24.7,STP,SSA
+Kenya,25.0,0.377,31.1,KEN,SSA
+Nepal,27.0,0.401,25.9,NPL,AP
+Pakistan,30.0,0.377,28.6,PAK,AP
+Angola,15.0,0.335,36.6,AGO,SSA
+Tanzania,30.0,0.379,27.2,TZA,SSA
+Nigeria,26.0,0.32,37.5,NGA,SSA
+Cameroon,27.0,0.344,32.4,CMR,SSA
+Madagascar,28.0,0.372,26.8,MDG,SSA
+Zimbabwe,21.0,0.371,26.7,ZWE,SSA
+Mauritania,31.0,0.337,32.9,MRT,SSA
+Comoros,26.0,0.268,46.0,COM,SSA
+Yemen,18.0,0.329,33.0,YEM,MENA
+Lesotho,44.0,0.32,34.9,LSO,SSA
+Togo,32.0,0.322,33.1,TGO,SSA
+Haiti,17.0,0.296,38.2,HTI,AME
+Rwanda,54.0,0.33,31.6,RWA,SSA
+Uganda,25.0,0.337,30.2,UGA,SSA
+Benin,37.0,0.3,37.1,BEN,SSA
+Djibouti,34.0,0.308,33.7,DJI,SSA
+Senegal,44.0,0.305,34.0,SEN,SSA
+Afghanistan,11.0,0.319,30.0,AFG,AP
+Cote d'Ivoire,32.0,0.287,37.6,CIV,SSA
+Malawi,31.0,0.299,32.6,MWI,SSA
+Ethiopia,33.0,0.312,28.0,ETH,SSA
+Democratic Republic of the Congo,22.0,0.276,35.3,COD,SSA
+Liberia,37.0,0.28,34.1,LBR,SSA
+Guinea-Bissau,17.0,0.254,39.4,GNB,SSA
+Mali,35.0,0.27,34.5,MLI,SSA
+Mozambique,31.0,0.273,34.1,MOZ,SSA
+Sierra Leone,29.0,0.241,40.0,SLE,SSA
+Guinea,25.0,0.261,35.2,GIN,SSA
+Burkina Faso,38.0,0.261,34.6,BFA,SSA
+Burundi,21.0,0.269,31.5,BDI,SSA
+Chad,22.0,0.236,39.6,TCD,SSA
+Central African Republic,24.0,0.198,43.1,CAF,SSA
+Niger,34.0,0.246,28.4,NER,SSA
